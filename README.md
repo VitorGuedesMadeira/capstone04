@@ -70,7 +70,6 @@ In the terminal, go to your file directory and run this command.
 
 ```
 $ git clone git@github.com:mavericks-db/capstone04.git
-
 ```
 
 ### Usage
