@@ -2,7 +2,7 @@
 
 # Catalog Of My Things
 
-## _Microverse Ruby Group Capstone Project_
+## *Microverse Ruby Group Capstone Project*
 
 > This is an educational project to create a console app that you to keep a record of different types of things you won: books, music albums, movies, and games. Everything will be based on the UML class diagram presented below.
 
@@ -31,7 +31,7 @@
 
 ## Project Documentation 📄
 
-- [x] Here is the presentation video [link](https://drive.google.com/file/d/1Fi1Og-ZkgPK-UnpXF65DkXFkomawnbAF/view?usp=sharing)👈
+- [x] Here is the presentation video [link](https://drive.google.com/file/d/1pcULkhHCl1VKrGqNVWgbg--LKEGtbgrr/view?usp=sharing)👈
 
 ## Built With 🛠️
 
@@ -69,14 +69,7 @@ Clone the repository using the GitHub link provided below.
 In the terminal, go to your file directory and run this command.
 
 ```
-$ git clone git@github.com:ger619/ruby-capstone.git
-
-```
-
-$ gem install bundler
-
-```
-$ bundle install
+$ git clone git@github.com:mavericks-db/capstone04.git
 
 ```
 
@@ -111,9 +104,15 @@ $ rspec ./spec/#{filename}_spec.rb
 
 - LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/-mavericks--db-white?logo=LinkedIn&logoColor=0A66C2&style=plastic)](https://www.linkedin.com/in/mavericks-db/)
 
+- AngelList: [![AngelList Badge](https://img.shields.io/badge/-mavericks--db-white?logo=AngelList&logoColor=000000&style=plastic)](https://angel.co/u/mavericks-db)
+
 - GitHub: [![GitHub Badge](https://img.shields.io/badge/-mavericks--db-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/mavericks-db)
 
 - Twitter: [![Twitter Badge](https://img.shields.io/badge/-mavericks__db-white?logo=Twitter&logoColor=1DA1F2&style=plastic)](https://twitter.com/mavericks_db)
+
+- Facebook: [![Facebook Badge](https://img.shields.io/badge/-mavericksdb-white?logo=Facebook&logoColor=1877F2&style=plastic)](https://www.facebook.com/mavericksdb/)
+
+- Gmail: [![Gmail Badge](https://img.shields.io/badge/-balitaanmavericks-white?logo=Gmail&logoColor=EA4335&style=plastic)](mailto:balitaanmavericks@gmail.com)
 
 👤 **Nii Amanor Djoleto** <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>
 
@@ -135,7 +134,7 @@ $ rspec ./spec/#{filename}_spec.rb
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ger619/ruby-capstone/issues).
+Feel free to check the [issues page](https://github.com/mavericks-db/capstone04/issues).
 
 ## Show your support
 
