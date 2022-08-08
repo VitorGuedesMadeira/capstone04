@@ -1,4 +1,4 @@
-## Copyright 2022, Mavericks Balitaan
+## Copyright 2022, Mavericks Balitaan and Nii Amanor Djoleto and Abol Ger
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this CATALOG OF MY THINGS CONSOLE APP and associated documentation files, to deal in the CATALOG OF MY THINGS CONSOLE APP without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the CATALOG OF MY THINGS CONSOLE APP, and to permit persons to whom the CATALOG OF MY THINGS CONSOLE APP is furnished to do so, subject to the following conditions:
