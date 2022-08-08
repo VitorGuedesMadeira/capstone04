@@ -39,6 +39,9 @@
 - [x] Linter: [Rubocop](https://rubocop.org/)
 - [x] VS Code
 
+## Screenshots 📸
+![app_screenshot](https://user-images.githubusercontent.com/98527559/183326321-0a9a3f7b-4255-4d5b-9d32-ec3498ed6308.jpg)
+
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
